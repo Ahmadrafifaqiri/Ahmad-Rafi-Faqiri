@@ -1,0 +1,394 @@
+{
+  "safety": {
+    "high": {
+      "persons": {
+        "2": "unacc",
+        "4": {
+          "buying": {
+            "high": {
+              "maint": {
+                "high": "acc",
+                "low": "acc",
+                "med": "acc",
+                "vhigh": "unacc"
+              }
+            },
+            "low": {
+              "maint": {
+                "high": {
+                  "doors": {
+                    "3": { "lug_boot": { "big": "vgood", "med": "acc" } },
+                    "4": "vgood",
+                    "5more": "vgood"
+                  }
+                },
+                "low": {
+                  "doors": {
+                    "2": "good",
+                    "4": { "lug_boot": { "med": "vgood", "small": "good" } }
+                  }
+                },
+                "med": {
+                  "lug_boot": {
+                    "big": "vgood",
+                    "med": {
+                      "doors": { "3": "good", "4": "vgood", "5more": "vgood" }
+                    },
+                    "small": "good"
+                  }
+                },
+                "vhigh": "acc"
+              }
+            },
+            "med": {
+              "maint": {
+                "high": "acc",
+                "low": {
+                  "lug_boot": {
+                    "big": "vgood",
+                    "med": {
+                      "doors": { "3": "good", "4": "vgood", "5more": "vgood" }
+                    },
+                    "small": "good"
+                  }
+                },
+                "med": {
+                  "lug_boot": { "big": "vgood", "med": "vgood", "small": "acc" }
+                },
+                "vhigh": "acc"
+              }
+            },
+            "vhigh": {
+              "maint": {
+                "high": "unacc",
+                "low": "acc",
+                "med": "acc",
+                "vhigh": "unacc"
+              }
+            }
+          }
+        },
+        "more": {
+          "buying": {
+            "high": {
+              "maint": {
+                "high": "acc",
+                "low": "acc",
+                "med": "acc",
+                "vhigh": "unacc"
+              }
+            },
+            "low": {
+              "maint": {
+                "high": {
+                  "lug_boot": {
+                    "big": "vgood",
+                    "small": {
+                      "doors": { "2": "unacc", "4": "acc", "5more": "acc" }
+                    }
+                  }
+                },
+                "low": {
+                  "lug_boot": {
+                    "big": "vgood",
+                    "small": { "doors": { "2": "unacc", "5more": "good" } }
+                  }
+                },
+                "med": {
+                  "lug_boot": {
+                    "big": "vgood",
+                    "med": "vgood",
+                    "small": {
+                      "doors": { "2": "unacc", "3": "good", "4": "good" }
+                    }
+                  }
+                },
+                "vhigh": {
+                  "doors": {
+                    "2": { "lug_boot": { "big": "acc", "small": "unacc" } },
+                    "3": "acc",
+                    "4": "acc",
+                    "5more": "acc"
+                  }
+                }
+              }
+            },
+            "med": {
+              "maint": {
+                "high": "acc",
+                "low": {
+                  "doors": {
+                    "2": { "lug_boot": { "med": "good", "small": "unacc" } },
+                    "3": "good",
+                    "5more": "vgood"
+                  }
+                },
+                "med": {
+                  "doors": {
+                    "2": { "lug_boot": { "big": "vgood", "med": "acc" } },
+                    "3": "vgood",
+                    "4": "vgood"
+                  }
+                },
+                "vhigh": "acc"
+              }
+            },
+            "vhigh": {
+              "maint": {
+                "high": "unacc",
+                "low": {
+                  "doors": {
+                    "2": { "lug_boot": { "big": "acc", "small": "unacc" } },
+                    "3": "acc",
+                    "4": "acc",
+                    "5more": "acc"
+                  }
+                },
+                "med": "acc",
+                "vhigh": "unacc"
+              }
+            }
+          }
+        }
+      }
+    },
+    "low": "unacc",
+    "med": {
+      "persons": {
+        "2": "unacc",
+        "4": {
+          "buying": {
+            "high": {
+              "lug_boot": {
+                "big": {
+                  "maint": {
+                    "high": "acc",
+                    "low": "acc",
+                    "med": "acc",
+                    "vhigh": "unacc"
+                  }
+                },
+                "med": {
+                  "doors": {
+                    "2": "unacc",
+                    "3": "unacc",
+                    "4": {
+                      "maint": { "low": "acc", "med": "acc", "vhigh": "unacc" }
+                    },
+                    "5more": "acc"
+                  }
+                },
+                "small": "unacc"
+              }
+            },
+            "low": {
+              "maint": {
+                "high": "acc",
+                "low": {
+                  "doors": {
+                    "2": {
+                      "lug_boot": {
+                        "big": "good",
+                        "med": "acc",
+                        "small": "acc"
+                      }
+                    },
+                    "3": "acc",
+                    "4": "good",
+                    "5more": "acc"
+                  }
+                },
+                "med": {
+                  "doors": {
+                    "2": {
+                      "lug_boot": {
+                        "big": "good",
+                        "med": "acc",
+                        "small": "acc"
+                      }
+                    },
+                    "3": "acc",
+                    "4": "good",
+                    "5more": "good"
+                  }
+                },
+                "vhigh": {
+                  "lug_boot": {
+                    "big": "acc",
+                    "med": {
+                      "doors": {
+                        "2": "unacc",
+                        "3": "unacc",
+                        "4": "acc",
+                        "5more": "acc"
+                      }
+                    },
+                    "small": "unacc"
+                  }
+                }
+              }
+            },
+            "med": {
+              "maint": {
+                "high": {
+                  "lug_boot": { "big": "acc", "med": "acc", "small": "unacc" }
+                },
+                "low": {
+                  "lug_boot": {
+                    "big": "good",
+                    "med": { "doors": { "2": "acc", "4": "good" } },
+                    "small": "acc"
+                  }
+                },
+                "med": "acc",
+                "vhigh": {
+                  "lug_boot": { "big": "acc", "med": "unacc", "small": "unacc" }
+                }
+              }
+            },
+            "vhigh": {
+              "maint": {
+                "high": "unacc",
+                "low": {
+                  "doors": {
+                    "2": "unacc",
+                    "3": "unacc",
+                    "4": "acc",
+                    "5more": "acc"
+                  }
+                },
+                "med": {
+                  "lug_boot": {
+                    "big": "acc",
+                    "med": { "doors": { "3": "unacc", "5more": "acc" } },
+                    "small": "unacc"
+                  }
+                },
+                "vhigh": "unacc"
+              }
+            }
+          }
+        },
+        "more": {
+          "buying": {
+            "high": {
+              "lug_boot": {
+                "big": {
+                  "maint": {
+                    "high": "acc",
+                    "low": "acc",
+                    "med": "acc",
+                    "vhigh": "unacc"
+                  }
+                },
+                "med": {
+                  "maint": {
+                    "high": "acc",
+                    "low": {
+                      "doors": {
+                        "2": "unacc",
+                        "3": "acc",
+                        "4": "acc",
+                        "5more": "acc"
+                      }
+                    },
+                    "med": "acc",
+                    "vhigh": "unacc"
+                  }
+                },
+                "small": "unacc"
+              }
+            },
+            "low": {
+              "lug_boot": {
+                "big": {
+                  "maint": {
+                    "high": "acc",
+                    "low": "good",
+                    "med": "good",
+                    "vhigh": "acc"
+                  }
+                },
+                "med": {
+                  "maint": {
+                    "high": "acc",
+                    "low": {
+                      "doors": { "2": "acc", "3": "good", "5more": "good" }
+                    },
+                    "med": {
+                      "doors": { "2": "acc", "3": "good", "4": "good" }
+                    },
+                    "vhigh": "acc"
+                  }
+                },
+                "small": {
+                  "maint": {
+                    "high": {
+                      "doors": { "2": "unacc", "3": "acc", "4": "acc" }
+                    },
+                    "low": {
+                      "doors": { "2": "unacc", "4": "acc", "5more": "acc" }
+                    },
+                    "med": "acc",
+                    "vhigh": "unacc"
+                  }
+                }
+              }
+            },
+            "med": {
+              "maint": {
+                "high": {
+                  "lug_boot": {
+                    "big": "acc",
+                    "med": { "doors": { "2": "unacc", "5more": "acc" } },
+                    "small": "unacc"
+                  }
+                },
+                "low": {
+                  "lug_boot": {
+                    "big": "good",
+                    "med": {
+                      "doors": {
+                        "2": "acc",
+                        "3": "good",
+                        "4": "good",
+                        "5more": "good"
+                      }
+                    },
+                    "small": "acc"
+                  }
+                },
+                "med": "acc",
+                "vhigh": {
+                  "lug_boot": { "big": "acc", "med": "unacc", "small": "unacc" }
+                }
+              }
+            },
+            "vhigh": {
+              "maint": {
+                "high": "unacc",
+                "low": {
+                  "lug_boot": {
+                    "big": "acc",
+                    "med": {
+                      "doors": { "2": "unacc", "3": "acc", "5more": "acc" }
+                    },
+                    "small": "unacc"
+                  }
+                },
+                "med": {
+                  "lug_boot": {
+                    "big": "acc",
+                    "med": { "doors": { "2": "unacc", "4": "acc" } },
+                    "small": "unacc"
+                  }
+                },
+                "vhigh": "unacc"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
