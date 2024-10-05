@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Civil and Environmental Engineering from Afghanistan</h3>
 <img align="right"alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadrafifaqiri&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadrafifaqiri" /> </p>
 
 - 🔭 I’m currently working as a Researcher and doing my PhD in Civil and Environmental Engineering Department [University of Utah](https://faculty.utah.edu/u1503285-AHMAD_RAFI_FAQIRI/research/index.hml#:~:text=AHMAD%20RAFI%20FAQIRI%20Graduate%20Teaching%20Assist%20(TA),%20Civil)
