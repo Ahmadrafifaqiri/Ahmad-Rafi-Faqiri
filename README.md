@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadrafifaqiri&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadrafifaqiri" /> </p>
 
-- 🔭 I’m currently working as a TA and RA for Civil Engineering Department [University of Utah](https://faculty.utah.edu/u1503285-AHMAD_RAFI_FAQIRI/research/index.hml#:~:text=AHMAD%20RAFI%20FAQIRI%20Graduate%20Teaching%20Assist%20(TA),%20Civil)
+- 🔭 I’m currently working as a Researcher and doing my PhD in Civil and Environmental Engineering Department [University of Utah](https://faculty.utah.edu/u1503285-AHMAD_RAFI_FAQIRI/research/index.hml#:~:text=AHMAD%20RAFI%20FAQIRI%20Graduate%20Teaching%20Assist%20(TA),%20Civil)
 
 - 🌱 I’m currently learning **Advanced Deep learning and Computer Visions**
 
